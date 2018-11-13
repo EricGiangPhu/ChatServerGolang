@@ -11,7 +11,7 @@ Link: https://goo.gl/LKP3kB
 
 run command in folder clone
 1. go get
-2. go run main.go -port {yourport}
+2. go run main.go -port {yourport}  
 vd: go run main.go -port 7878
 
 default port golang : 7878
